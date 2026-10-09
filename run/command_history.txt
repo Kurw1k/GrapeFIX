@@ -1,0 +1,9 @@
+/difficulty hard
+/time set dat
+/time set day
+/gamerule randomTickSpeed
+/gamerule randomTickSpeed 999
+/gamerule randomTickSpeed 9999
+/gamerule randomTickSpeed 25000
+/gamerule randomTickSpeed 10000
+/gamerule randomTickSpeed 1000

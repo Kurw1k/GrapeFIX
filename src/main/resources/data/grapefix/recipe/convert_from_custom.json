@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "grapefix:grape"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_alcoholic_beverages:grapeitem"
+  }
+}

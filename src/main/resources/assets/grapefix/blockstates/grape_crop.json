@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "grapefix:block/grapecrop_stage0", "render_type": "cutout" },
+    "age=1": { "model": "grapefix:block/grapecrop_stage1", "render_type": "cutout" },
+    "age=2": { "model": "grapefix:block/grapecrop_stage2", "render_type": "cutout" },
+    "age=3": { "model": "grapefix:block/grapecrop_stage3", "render_type": "cutout" },
+    "age=4": { "model": "grapefix:block/grapecrop_stage4", "render_type": "cutout" },
+    "age=5": { "model": "grapefix:block/grapecrop_stage5", "render_type": "cutout" },
+    "age=6": { "model": "grapefix:block/grapecrop_stage6", "render_type": "cutout" },
+    "age=7": { "model": "grapefix:block/grapecrop_stage7", "render_type": "cutout" }
+  }
+}

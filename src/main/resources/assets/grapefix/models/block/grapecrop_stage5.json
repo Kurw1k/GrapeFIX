@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "grapefix:block/grapecrop_stage5"
+  }
+}
