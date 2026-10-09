@@ -22,4 +22,4 @@ This mod requires **NeoForge** and the following mod to be installed:
 If you want to build the mod yourself from source code:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your_username/grapefix.git](https://github.com/Kurw1k/grapefix.git)
+   git clone https://github.com/Kurw1k/grapefix.git
